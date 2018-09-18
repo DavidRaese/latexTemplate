@@ -1,0 +1,6 @@
+**/*-eps-converted-to.pdf
+/main/*.aux
+/main/*.fdb_latexmk
+/main/*.fls
+/main/*.log
+/main/*.synctex.gz
