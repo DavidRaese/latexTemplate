@@ -3,4 +3,6 @@
 /main/*.fdb_latexmk
 /main/*.fls
 /main/*.log
+/main/*.bbl
+/main/*.blg
 /main/*.synctex.gz
